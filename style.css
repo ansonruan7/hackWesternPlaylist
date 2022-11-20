@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #383c3e
+}
+
+.background {
+  background: #383c3e;
+}
+h3{
+  font-size: 100px;
+  color: #4adb48;
+  font-family: cursive;
+}
+
+.button {
+  background-color: #383c3e; /* Green */
+  border: 4px solid #4CAF50;;
+  color: white;
+  padding: 10px 57px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: cursive;
+}
+.button:hover {opacity: 0.6}
